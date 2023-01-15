@@ -188,6 +188,7 @@ a{
 /********************* COMMITMENT STYLE START ****************/
 .commitment-section__wrapper{
     display: flex;
+    margin-top: 100px;
 }
 
 .commitment-section__title{
