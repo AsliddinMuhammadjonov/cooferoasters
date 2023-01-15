@@ -114,3 +114,37 @@ ul{
 a{
     text-decoration: none;
 }
+
+/********************* COMMITMENT STYLE START ****************/
+.commitment-section__wrapper{
+    display: flex;
+}
+
+.commitment-section__title{
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333D4B;
+    margin-top: 112px;
+    margin-bottom: 32px;
+}
+
+.commitment-section__end{
+    margin-left: 125px;
+}
+
+.commitment-section__text{
+    width: 540px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+/********************* COMMITMENT STYLE END ****************/
