@@ -114,3 +114,72 @@ ul{
 a{
     text-decoration: none;
 }
+
+
+/************ HEADER STYLE START  ****************/
+
+.site-header{
+    padding-top: 44px;
+    padding-bottom: 44px;
+    background-color: var(--header-bg-color);
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.sit-nav__list{
+    display: flex;
+}
+.site-nav__item:not(:last-child){
+    margin-right: 33px;
+    
+}
+.site-nav__link{
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #83888F;
+    
+}
+
+
+/*************** HEADER STYLE END  ******************/
+
+/******************* MAIN STYLE START ****************/
+
+.site-main{
+    background-color: var(--header-bg-color);
+}
+.site-section__wrapper{
+    padding-top: 137px;
+    padding-right: 750px;
+    padding-bottom: 137px;
+    padding-left: 85px;
+    border-radius: 10px;
+    background-image: url("../images/hero-section-img.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.site-site__section__title{
+    margin: 0;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+    
+}
+.site-section__desc{
+    margin: 0;
+    padding-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    
+    color: #FEFCF7;
+}
+/******************* MAIN STYLE END ****************/
