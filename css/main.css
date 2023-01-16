@@ -114,3 +114,46 @@ ul{
 a{
     text-decoration: none;
 }
+
+
+/************* QUALITY STYLE START ************/
+
+.quality-section__wrapper{
+    display: flex;
+}
+
+.quality-section__left{
+    margin-right: 92px;
+}
+
+.quality-section{
+    background: #2C343E;
+}
+
+.quality-section__title{
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    margin-top: 100px;
+    margin-bottom: 32px;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;    
+    color: #FEFCF7;
+}
+
+.quality-section__text{
+    font-family: 'Barlow';
+    font-style: normal;
+    width: 540px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+
+
+
+/************* QUALITY STYLE START ************/
