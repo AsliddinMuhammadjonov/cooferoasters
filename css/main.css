@@ -192,8 +192,6 @@ a{
 }
 
 .commitment-section__title{
-    font-family: 'Fraunces 9pt';
-    font-style: normal;
     font-weight: 900;
     font-size: 40px;
     line-height: 48px;
@@ -208,13 +206,10 @@ a{
 
 .commitment-section__text{
     width: 540px;
-    font-family: 'Barlow';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
     color: #333D4B;
-    mix-blend-mode: normal;
     opacity: 0.8;
 }
 
