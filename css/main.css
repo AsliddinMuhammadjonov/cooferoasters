@@ -256,3 +256,87 @@ a{
 }
 
 /**********  QUALITY STYLE END ****************/
+/************ OUR STYLES START ************/
+.our-section{
+    padding-top: 200px;
+    padding-bottom: 168px;
+}
+.our-wrapper{
+    padding-left: 85px;
+}
+.our-section__title{
+    margin-bottom: 66px;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+
+}
+.our-section-list{
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+}
+.our-item{
+    width: 100%;
+    max-width: 285px;
+    height: 256px;
+
+}
+.our-item__title{
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+}
+.our-item__deck{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+
+}
+    
+/************ OUR STYLES END ************/
+/********************************* MAIN STYLE END ****************************/
+/********************************* FOOTER  STYLE END ****************************/
+
+
+.site-footer{
+    
+    
+}
+.footer-wrapper{
+    margin-bottom: 85px;
+    padding-top:47px ;
+    padding-bottom: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2C343E;
+}
+.site-footer__logo{
+    margin-left: 85px;
+}
+.footer-list{
+    display: flex;
+
+}
+.footer-desc{
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+letter-spacing: 0.923077px;
+color: #83888F;
+}
+.footer-item:not(:last-child){
+    margin-right:32px; 
+}
+.footer-item__link:not(:last-child){
+    margin-right: 24px;
+
+}
+.footer-item__link:last-child{
+    margin-right: 49px;
+}
+/********************************* FOOTER  STYLE END ****************************/
